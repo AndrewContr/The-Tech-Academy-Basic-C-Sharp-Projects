@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\WelcomeScreen\bin\Debug\WelcomeScreen.exe.config
+C:\Users\andre\source\repos\WelcomeScreen\bin\Debug\WelcomeScreen.exe
+C:\Users\andre\source\repos\WelcomeScreen\bin\Debug\WelcomeScreen.pdb
+C:\Users\andre\source\repos\WelcomeScreen\obj\Debug\WelcomeScreen.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\WelcomeScreen\obj\Debug\WelcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\WelcomeScreen\obj\Debug\WelcomeScreen.exe
+C:\Users\andre\source\repos\WelcomeScreen\obj\Debug\WelcomeScreen.pdb
