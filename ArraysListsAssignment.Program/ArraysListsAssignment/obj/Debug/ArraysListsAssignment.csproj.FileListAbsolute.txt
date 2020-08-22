@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\ArraysListsAssignment.Program\ArraysListsAssignment\bin\Debug\ArraysListsAssignment.exe.config
+C:\Users\andre\source\repos\ArraysListsAssignment.Program\ArraysListsAssignment\bin\Debug\ArraysListsAssignment.exe
+C:\Users\andre\source\repos\ArraysListsAssignment.Program\ArraysListsAssignment\bin\Debug\ArraysListsAssignment.pdb
+C:\Users\andre\source\repos\ArraysListsAssignment.Program\ArraysListsAssignment\obj\Debug\ArraysListsAssignment.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\ArraysListsAssignment.Program\ArraysListsAssignment\obj\Debug\ArraysListsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ArraysListsAssignment.Program\ArraysListsAssignment\obj\Debug\ArraysListsAssignment.exe
+C:\Users\andre\source\repos\ArraysListsAssignment.Program\ArraysListsAssignment\obj\Debug\ArraysListsAssignment.pdb
