@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\ExceptionHandlingAssignment.Program\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe.config
+C:\Users\andre\source\repos\ExceptionHandlingAssignment.Program\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe
+C:\Users\andre\source\repos\ExceptionHandlingAssignment.Program\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.pdb
+C:\Users\andre\source\repos\ExceptionHandlingAssignment.Program\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\ExceptionHandlingAssignment.Program\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ExceptionHandlingAssignment.Program\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.exe
+C:\Users\andre\source\repos\ExceptionHandlingAssignment.Program\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.pdb
