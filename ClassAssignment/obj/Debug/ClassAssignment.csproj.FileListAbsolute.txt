@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\ClassAssignment.Program\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\andre\source\repos\ClassAssignment.Program\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\andre\source\repos\ClassAssignment.Program\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\andre\source\repos\ClassAssignment.Program\ClassAssignment\obj\Debug\ClassAssignment.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\ClassAssignment.Program\ClassAssignment\obj\Debug\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ClassAssignment.Program\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\andre\source\repos\ClassAssignment.Program\ClassAssignment\obj\Debug\ClassAssignment.pdb
