@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\ClassMethodConsoleAppAssignment.Program\ClassMethodConsoleAppAssignment\bin\Debug\ClassMethodConsoleAppAssignment.exe.config
+C:\Users\andre\source\repos\ClassMethodConsoleAppAssignment.Program\ClassMethodConsoleAppAssignment\bin\Debug\ClassMethodConsoleAppAssignment.exe
+C:\Users\andre\source\repos\ClassMethodConsoleAppAssignment.Program\ClassMethodConsoleAppAssignment\bin\Debug\ClassMethodConsoleAppAssignment.pdb
+C:\Users\andre\source\repos\ClassMethodConsoleAppAssignment.Program\ClassMethodConsoleAppAssignment\obj\Debug\ClassMethodConsoleAppAssignment.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\ClassMethodConsoleAppAssignment.Program\ClassMethodConsoleAppAssignment\obj\Debug\ClassMethodConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ClassMethodConsoleAppAssignment.Program\ClassMethodConsoleAppAssignment\obj\Debug\ClassMethodConsoleAppAssignment.exe
+C:\Users\andre\source\repos\ClassMethodConsoleAppAssignment.Program\ClassMethodConsoleAppAssignment\obj\Debug\ClassMethodConsoleAppAssignment.pdb
