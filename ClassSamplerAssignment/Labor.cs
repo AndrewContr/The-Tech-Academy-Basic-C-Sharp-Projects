@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace ClassSamplerAssignment
 {
-    class Labor
+    static class Labor
     {
-        public static int doWork(int number1)
+        public static int doWork(out int number1)
         {
+            number1 = 9;
             return number1 * 10;
         }
 
