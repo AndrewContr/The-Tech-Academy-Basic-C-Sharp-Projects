@@ -8,13 +8,9 @@ namespace TwoIntegerParameterClassAssignment
 {
     public class Calculator
     {
-       public int addTwo(int number1, int number2)
-        {
+       public int addTwo(int number1, int number2 = 8)
+       { 
             return number1 + number2;
-        }
-        public int addTwo(int number1)
-        {
-            return number1 + 5;
-        }
+       }
     }
 }
