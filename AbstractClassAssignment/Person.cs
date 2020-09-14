@@ -12,9 +12,12 @@ namespace AbstractClassAssignment
         public string lastName { get; set; }
 
         public abstract void SayName();
-       
-         
-       
+
+      
+
+
+
+
 
     }
 }

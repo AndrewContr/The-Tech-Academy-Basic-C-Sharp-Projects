@@ -16,5 +16,6 @@ namespace AbstractClassAssignment
             worker.SayName();
             Console.ReadLine();
         }
+    //Step 245 Overloaded Operator Assignment is within the "Employee" class.
     }
 }
