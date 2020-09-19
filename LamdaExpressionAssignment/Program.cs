@@ -11,48 +11,40 @@ namespace LamdaExpressionAssignment
     {
         static void Main(string[] args)
         {
-            List<string> averageJoes = new List<string>();
-            
+            List<Employee> averageJoes = new List<Employee>();
+
             List<Employee> Employees = new List<Employee>();
-            
-            List<string> firstNames = new List<string>()
             {
-                "Gord", "Shep", "Butch", "Joe", "Range", "Villanova", "Joe", "Planters", "Ewel", "Anderson"
-            };
+                new Employee { firstName = "Gord", lastName = "Buell", ID = 1 };
+                new Employee { firstName = "Shep", lastName = "Sheppard", ID = 2 };
+                new Employee { firstName = "Butch", lastName = "Weaver", ID = 3 };
+                new Employee { firstName = "Joe", lastName = "Knutsen", ID = 4 };
+                new Employee { firstName = "Range", lastName = "Blllhlll", ID = 5 };
+                new Employee { firstName = "Villanova", lastName = "Giraffe", ID = 6 };
+                new Employee { firstName = "Joe", lastName = "Hoisin", ID = 7 };
+                new Employee { firstName = "Planters", lastName = "Monopoly", ID = 8 };
+                new Employee { firstName = "Ewel", lastName = "Peck", ID = 9 };
+                new Employee { firstName = "Anderson", lastName = "Cooper", ID = 10 };
 
-            List<string> lastNames = new List<string>()
-            {
-                "Buell", "Sheppard", "Weaver", "Knutsen", "Blllhlll", "Giraffe", "Hoisin", "Monopoly", "Peck", "Cooper"
-            };
-
-            List<int> IDs = new List<int>()
-            {
-                0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-            };
-
-            int i = 0;
-            foreach (var firstName in firstNames)
-            {
-               Employees.Add(new Employee(firstName, lastNames[i], IDs[i]));
-                i++;
-            }
-            
-            foreach (Employee employee in Employees)
-            {
-                if (employee.firstName.Equals ("Joe"))
-                { 
-                averageJoes.Add(employee.firstName);
+    
+                foreach (Employee employee in Employees)
+                {
+                    if (employee.firstName.Equals("Joe"))
+                    {
+                        averageJoes.Add(employee);
+                    }
                 }
+                Console.WriteLine(averageJoes);
+                Console.ReadLine();
+
+
+                List<Employee> joeList = Employees.Where(x => x.firstName == "Joe").ToList();
+
+
+                List<Employee> fiveList = Employees.Where(x => x.ID > 5).ToList();
+
             }
-            Console.WriteLine(averageJoes);
-            Console.ReadLine();
-
-           
-            List<Employee> joeList = Employees.firstNames.Where(x => x.firstName == x.Joe).ToList();
-
-            
-            List<Employee> fiveList = Employees.ID.Where(x => x > 5).ToList();
-            
         }
     }
+
 }
