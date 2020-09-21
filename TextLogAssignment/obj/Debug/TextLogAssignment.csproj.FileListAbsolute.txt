@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\TextLogAssignment.Program\TextLogAssignment\bin\Debug\TextLogAssignment.exe.config
+C:\Users\andre\source\repos\TextLogAssignment.Program\TextLogAssignment\bin\Debug\TextLogAssignment.exe
+C:\Users\andre\source\repos\TextLogAssignment.Program\TextLogAssignment\bin\Debug\TextLogAssignment.pdb
+C:\Users\andre\source\repos\TextLogAssignment.Program\TextLogAssignment\obj\Debug\TextLogAssignment.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\TextLogAssignment.Program\TextLogAssignment\obj\Debug\TextLogAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\TextLogAssignment.Program\TextLogAssignment\obj\Debug\TextLogAssignment.exe
+C:\Users\andre\source\repos\TextLogAssignment.Program\TextLogAssignment\obj\Debug\TextLogAssignment.pdb

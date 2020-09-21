@@ -17,8 +17,9 @@ namespace TextLogAssignment
             using (StreamWriter file = new StreamWriter(@"C:\Users\andre\log.txt", true))
             {
                 file.WriteLine(numNum);
+                Console.WriteLine(numNum);
             }
-
+            Console.ReadLine();
         }
     }
 }
