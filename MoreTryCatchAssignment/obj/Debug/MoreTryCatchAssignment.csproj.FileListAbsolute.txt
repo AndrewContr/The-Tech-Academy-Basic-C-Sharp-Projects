@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\MoreTryCatchAssignment.Program\MoreTryCatchAssignment\bin\Debug\MoreTryCatchAssignment.exe.config
+C:\Users\andre\source\repos\MoreTryCatchAssignment.Program\MoreTryCatchAssignment\bin\Debug\MoreTryCatchAssignment.exe
+C:\Users\andre\source\repos\MoreTryCatchAssignment.Program\MoreTryCatchAssignment\bin\Debug\MoreTryCatchAssignment.pdb
+C:\Users\andre\source\repos\MoreTryCatchAssignment.Program\MoreTryCatchAssignment\obj\Debug\MoreTryCatchAssignment.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\MoreTryCatchAssignment.Program\MoreTryCatchAssignment\obj\Debug\MoreTryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\MoreTryCatchAssignment.Program\MoreTryCatchAssignment\obj\Debug\MoreTryCatchAssignment.exe
+C:\Users\andre\source\repos\MoreTryCatchAssignment.Program\MoreTryCatchAssignment\obj\Debug\MoreTryCatchAssignment.pdb
